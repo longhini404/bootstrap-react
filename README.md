@@ -4,7 +4,7 @@
 
 - $ yarn add react-bootstrap bootstrap
 
-# Instalando dependências & Iniciando o Servidor Web
+# Deploy
 
 - $ yarn install
 
