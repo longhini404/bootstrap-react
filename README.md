@@ -1,10 +1,8 @@
-# Instalando React Bootstrap
+# Setup
 
- - $ npx create-react-app
+- $ npx create-react-app
 
 - $ yarn add react-bootstrap bootstrap
-
-# Deploy
 
 - $ yarn install
 
